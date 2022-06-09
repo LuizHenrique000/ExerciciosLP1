@@ -1,3 +1,3 @@
 # ExerciciosLP1
 
-Alguns exercicios sobe lógica de programação 1
+Alguns exercicios sobre lógica de programação 1
